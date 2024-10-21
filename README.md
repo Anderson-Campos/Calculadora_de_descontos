@@ -19,7 +19,7 @@ Com base na quantidade de itens comprados, o programa aplica um desconto percent
 <h3>Como Usar</h3>
 1- Execute o programa.<br/>
 2 - Insira a quantidade de itens comprados quando solicitado.<br/>
-3 - Insira o valor total pago, podendo usar vírgula , ou ponto . como separador decimal.<br/>
+3 - Insira o valor total pago, podendo usar vírgula ou ponto como separador decimal.<br/>
 4 - O programa exibirá o valor do desconto aplicado e o preço final com desconto.<br/>
 
 <h3>Dependências</h3>
