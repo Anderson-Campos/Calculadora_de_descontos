@@ -4,7 +4,7 @@ Este programa em Java calcula o valor do desconto aplicado ao cliente com base n
 <h3>Funcionalidade</h3>
 O programa solicita ao usuário duas entradas:
 
-1 - <strong>Quantidade de itens comprados</strong>: Número total de itens adquiridos pelo cliente.
+1 - <strong>Quantidade de itens comprados</strong>: Número total de itens adquiridos pelo cliente.<br/>
 2 - <strong>Valor total pago</strong>: O valor total da compra.
 
 Com base na quantidade de itens comprados, o programa aplica um desconto percentual ao valor total da compra, conforme as seguintes regras:
