@@ -17,10 +17,10 @@ Com base na quantidade de itens comprados, o programa aplica um desconto percent
 - 0 itens: Sem desconto
 
 <h3>Como Usar</h3>
-1- Execute o programa.
-2 - Insira a quantidade de itens comprados quando solicitado.
-3 - Insira o valor total pago, podendo usar vírgula , ou ponto . como separador decimal.
-4 - O programa exibirá o valor do desconto aplicado e o preço final com desconto.
+1- Execute o programa.<br/>
+2 - Insira a quantidade de itens comprados quando solicitado.<br/>
+3 - Insira o valor total pago, podendo usar vírgula , ou ponto . como separador decimal.<br/>
+4 - O programa exibirá o valor do desconto aplicado e o preço final com desconto.<br/>
 
 <h3>Dependências</h3>
 Este projeto usa a classe Scanner da biblioteca padrão do Java para capturar as entradas do usuário. Nenhuma dependência externa é necessária.
